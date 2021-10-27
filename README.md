@@ -1,2 +1,0 @@
-# VirtualAssistant-AI
-Mini Project
